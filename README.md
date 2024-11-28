@@ -12,7 +12,7 @@ Instructions to Run Locally:
     cd your-repo
 
 3.  Install the required dependencies :
-    npm install
+    'npm init -y' and then 'npm install express'
 
 4.  Start the server :
     node server.js
